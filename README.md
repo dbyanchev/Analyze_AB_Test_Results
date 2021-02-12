@@ -30,7 +30,7 @@ company's product).
 
 #Part 3
 
-    A regression approach
+    A Regression approach
 
 #Part 4
 
